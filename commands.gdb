@@ -1,0 +1,10 @@
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/main/gdt.gdb
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/mm/pagetable.gdb
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/mm/memcheck.py
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/mm/page.py
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/mm/slab.py
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/proc/kthread.gdb
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/proc/proc.py
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/util/debug.py
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/util/list.py
+source /home/hsia947/Documents/H3/weenix-assignment-3.0.0/weenix/kernel/vm/vmmap.gdb
